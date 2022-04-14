@@ -1,3 +1,4 @@
+
 rule signature_name {
     meta:
         description = ""
